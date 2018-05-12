@@ -1,0 +1,30 @@
+_repo: The-Golden-Calf-Which-the-World-Adores-and-Desires--13-In-Which-Is-Handled-the-Most-Rare-and-__14641
+_version: 0.1.0
+alternative_title: Vitulus aureus, quem mundus adorat & orat. English
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Helvetius, Johann Friedrich
+    alias: Helvetius, John Frederick
+    deathdate: 1709
+    gutenberg_agent_id: '5610'
+    url: http://www.gutenberg.org/2009/agents/5610
+description: ''
+gutenberg_issued: '2005-01-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '14641'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Alchemy'
+- !lcc 'QD'
+title: "The Golden Calf, Which the World Adores, and Desires\r\nIn Which Is Handled\
+  \ the Most Rare and Incomparable Wonder of Nature, in Transmuting Metals; viz. How\
+  \ the Intire Substance of Lead, Was in One Moment Transmuted in Gold-Obrizon, with\
+  \ an Exceeding Small Particle of the True Philosophick Stone"
+url: http://www.gutenberg.org/ebooks/14641
